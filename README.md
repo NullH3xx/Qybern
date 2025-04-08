@@ -1,34 +1,14 @@
-# 🚀 QY-BERN Ultimate System Monitor Pro
+🔧 QY-BERN Ultimate System Monitor Pro
+A Cyberpunk-Themed System Monitor with Telegram Alerts
 
-A powerful bash-based system monitoring tool with Telegram alerts, real-time thresholds, and cyberpunk-style UI.
-
-## Features
-✔ CPU, RAM, Disk, Temp Monitoring  
-✔ Telegram Alerts (OTP Verified)  
-✔ Custom Thresholds  
-✔ Systemd Service Integration  
-✔ Background Monitoring
-✔ Animated Cyberpunk UI
-
-👨‍💻 Author
-NullH3xx
-
-🔗 GitHub: https://github.com/NullH3xx
-
-💼 LinkedIn: Abderrahmane Idrissi
-
-📸 Instagram: @nullh3xx
-
-𝕏 (Twitter): @nullh3xx
-
-📜 License
-MIT © NullH3xx
+![Uploading Capture.PNG…]()
 
 
-
-## Installation
-```bash
-git clone https://github.com/NullH3xx/System-Monitor-Pro.git
-cd System-Monitor-Pro
-chmod +x qybern_monitor.sh
-sudo ./qybern_monitor.sh
+🌟 Features
+✅ Real-Time Monitoring (CPU, RAM, Disk, Temperature, Network)
+✅ Telegram Alerts (Instant notifications when thresholds are exceeded)
+✅ OTP Verification (Secure bot setup)
+✅ Custom Thresholds (Set warning/critical levels)
+✅ Cyberpunk UI (Animated terminal interface)
+✅ Systemd Service (Runs 24/7 in the background)
+✅ Logging (/var/log/nullhexx_monitor.log)
