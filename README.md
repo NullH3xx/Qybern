@@ -1,8 +1,7 @@
 🔧 QY-BERN Ultimate System Monitor Pro
 A Cyberpunk-Themed System Monitor with Telegram Alerts
 
-demo.PNG
-
+![image alt](https://github.com/NullH3xx/Qybern/blob/main/demo.PNG?raw=true)
 🌟 Features
 
 ✅ Real-Time Monitoring (CPU, RAM, Disk, Temperature, Network)
