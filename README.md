@@ -1,7 +1,7 @@
 🔧 QY-BERN Ultimate System Monitor Pro
 A Cyberpunk-Themed System Monitor with Telegram Alerts
 
-![Demo Screenshot](demo.png)
+demo.PNG
 
 🌟 Features
 
