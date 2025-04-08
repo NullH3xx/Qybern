@@ -7,7 +7,24 @@ A powerful bash-based system monitoring tool with Telegram alerts, real-time thr
 ✔ Telegram Alerts (OTP Verified)  
 ✔ Custom Thresholds  
 ✔ Systemd Service Integration  
-✔ Animated Cyberpunk UI  
+✔ Background Monitoring
+✔ Animated Cyberpunk UI
+
+👨‍💻 Author
+NullH3xx
+
+🔗 GitHub: https://github.com/NullH3xx
+
+💼 LinkedIn: Abderrahmane Idrissi
+
+📸 Instagram: @nullh3xx
+
+𝕏 (Twitter): @nullh3xx
+
+📜 License
+MIT © NullH3xx
+
+
 
 ## Installation
 ```bash
