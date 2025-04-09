@@ -82,7 +82,7 @@ A Cyberpunk-Themed System Monitor with Telegram Alerts
 
 📜 Example Telegram Alert
 
-   [image alt]()
+   [image alt](https://github.com/NullH3xx/Qybern/blob/main/Telegram%20alers.png?raw=true)
 
 📌 Troubleshooting
 
